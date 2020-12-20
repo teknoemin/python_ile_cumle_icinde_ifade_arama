@@ -1,4 +1,4 @@
-﻿ana_metin = "USAK emin"
+ana_metin = "Usak Universitesi"
 aranacak_obek = "ver"
 arama_komutu = ana_metin.find(aranacak_obek)
 if (arama_komutu > 0):
